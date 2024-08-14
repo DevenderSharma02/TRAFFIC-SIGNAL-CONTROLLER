@@ -1,7 +1,7 @@
 
 ![image (1)](https://github.com/user-attachments/assets/ab416e10-2234-4536-a551-921e419a03ba)
 
-# **𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐒𝐢𝐠𝐧𝐚𝐥 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐞𝐫 𝐮𝐬𝐢𝐧𝐠 𝐕𝐞𝐫𝐢𝐥𝐨𝐠** 🚦
+# **𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐒𝐢𝐠𝐧𝐚𝐥 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐞𝐫** 🚦
 
 A Verilog-based Traffic Signal Controller simulation project
 ## Project Overview
